@@ -7,6 +7,7 @@
 - ✅ Condução de auditorias internas e externas
 - ✅ Resposta a incidentes (CSIRT) e continuidade de negócios (ISO 22301)
 - ✅ Gestão de vulnerabilidades e Threat Intelligence
+- ✅ Controles de Segurança Críticos
 
 ### 🧭 Governança de TI
 - ✅ Estruturação e liderança de departamentos de Governança de TI
@@ -21,7 +22,7 @@
 
 ### ⚙️ Ferramentas e Tecnologias
 - Power BI, TopDesk, ServiceNow, Miro, Excel Avançado, Bizagi
-- Ferramentas de logs, SIEM, EDR e scanners de vulnerabilidades
+- Ferramentas de logs, SIEM, MFA, EDR e scanners de vulnerabilidades
 - Gestão de workflows e automação de processos
 
 ---
